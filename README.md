@@ -34,3 +34,8 @@
 **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**
 - Paper: https://arxiv.org/abs/2211.14304
 - Code: https://github.com/BarqueroGerman/BeLFusion
+
+## Quantization
+**Q-Diffusion: Quantizing Diffusion Models**
+- Paper: http://arxiv.org/abs/2302.04304
+- Code: https://github.com/Xiuyu-Li/q-diffusion
