@@ -5,13 +5,13 @@
 - Paper: https://arxiv.org/pdf/2306.15667.pdf
 - Code: https://github.com/facebookresearch/PoseDiffusion
 
-**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
-- Paper: https://arxiv.org/abs/2307.10816
-- Code: https://github.com/Sierkinhane/BoxDiff
-
 **Text2Tex: Text-driven Texture Synthesis via Diffusion Models**
 - Paper: https://daveredrum.github.io/Text2Tex/static/Text2Tex.pdf
 - Code: https://github.com/daveredrum/Text2Tex
+
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
+- Paper: https://arxiv.org/abs/2307.10816
+- Code: https://github.com/Sierkinhane/BoxDiff
 
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
