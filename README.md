@@ -35,6 +35,11 @@
 - Code : https://github.com/Zhaozixiang1228/MMIF-DDFM
 
 ## Human Motion
+**HumanMAC: Masked Motion Completion for Human Motion Prediction**
+- Paper: https://arxiv.org/abs/2302.03665
+- Code: https://github.com/LinghaoChan/HumanMAC
+- Web Page: https://lhchen.top/Human-MAC
+  
 **BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**
 - Paper: https://arxiv.org/abs/2211.14304
 - Code: https://github.com/BarqueroGerman/BeLFusion
