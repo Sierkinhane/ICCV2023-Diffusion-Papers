@@ -39,3 +39,7 @@
 **Q-Diffusion: Quantizing Diffusion Models**
 - Paper: http://arxiv.org/abs/2302.04304
 - Code: https://github.com/Xiuyu-Li/q-diffusion
+
+**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**
+- Paper: https://arxiv.org/abs/2304.01116
+- Code: 
