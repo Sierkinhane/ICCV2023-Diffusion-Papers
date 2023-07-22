@@ -48,6 +48,9 @@
 - Paper: https://arxiv.org/abs/2211.14304
 - Code: https://github.com/BarqueroGerman/BeLFusion
 
+**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**
+- Paper: https://arxiv.org/abs/2304.01116
+
 ## Quantization
 **Q-Diffusion: Quantizing Diffusion Models**
 - Paper: http://arxiv.org/abs/2302.04304
@@ -59,13 +62,10 @@
 - Code: https://github.com/ShoufaChen/DiffusionDet
 
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**
-Paper: https://arxiv.org/abs/2303.11681
-Code: https://github.com/weijiawu/DiffuMask
+- Paper: https://arxiv.org/abs/2303.11681
+- Code: https://github.com/weijiawu/DiffuMask
 
 ## Medical Image Analysis
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.08440
 
-**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**
-- Paper: https://arxiv.org/abs/2304.01116
-- Code: 
