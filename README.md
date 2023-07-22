@@ -1,6 +1,6 @@
 # ICCV2023-Diffusion-Papers
 
-## Image Synthesis (2D,3D)
+## Image/Video Synthesis (2D,3D)
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
 - Paper: https://arxiv.org/pdf/2306.15667.pdf
 - Code: https://github.com/facebookresearch/PoseDiffusion
@@ -12,6 +12,10 @@
 **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
 - Paper: https://arxiv.org/abs/2307.10816
 - Code: https://github.com/Sierkinhane/BoxDiff
+
+**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**
+- Paper: https://arxiv.org/abs/2212.11565
+- Code: https://github.com/showlab/Tune-A-Video
 
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
@@ -48,6 +52,15 @@
 **Q-Diffusion: Quantizing Diffusion Models**
 - Paper: http://arxiv.org/abs/2302.04304
 - Code: https://github.com/Xiuyu-Li/q-diffusion
+
+## Object Detection / Semantic Segmentation
+**DiffusionDet is the first work of diffusion model for object detection**
+- Paper: https://arxiv.org/abs/2211.09788
+- Code: https://github.com/ShoufaChen/DiffusionDet
+
+**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**
+Paper: https://arxiv.org/abs/2303.11681
+Code: https://github.com/weijiawu/DiffuMask
 
 ## Medical Image Analysis
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models**
