@@ -5,8 +5,8 @@
 - Paper: https://arxiv.org/pdf/2306.15667.pdf
 - Code: https://github.com/facebookresearch/PoseDiffusion
 
-**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** [Training-free Layout-to-Image using Diffusion Models]
-- Paper: https://arxiv.org/abs/2307.10816
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**
+- Paper: https://arxiv.org/abs/2307.10816  **Training-free Layout-to-Image Synthesis using Diffusion Models**
 - Code: https://github.com/Sierkinhane/BoxDiff
 
 **Text2Tex: Text-driven Texture Synthesis via Diffusion Models**
@@ -23,9 +23,9 @@
 - Code: https://github.com/aimagelab/multimodal-garment-designer
 
 ## Pose Estimation
-**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment** [Diffusion for Pose Estimation]
+**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment** 
 
-- Paper: https://arxiv.org/pdf/2306.15667.pdf
+- Paper: https://arxiv.org/pdf/2306.15667.pdf  **Pose Estimation using Diffusion Models**
 - Code: https://github.com/facebookresearch/PoseDiffusion
 
 ## Image Detection
