@@ -17,6 +17,9 @@
 - Paper: https://arxiv.org/abs/2212.11565
 - Code: https://github.com/showlab/Tune-A-Video
 
+**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**
+- Paper: https://arxiv.org/pdf/2304.01900.pdf
+
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
 - Paper: https://arxiv.org/abs/2304.02051
