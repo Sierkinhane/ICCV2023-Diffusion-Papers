@@ -20,6 +20,10 @@
 **PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**
 - Paper: https://arxiv.org/pdf/2304.01900.pdf
 
+**Ablating Concepts in Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.13516
+- Code: https://github.com/nupurkmr9/concept-ablation
+
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
 - Paper: https://arxiv.org/abs/2304.02051
