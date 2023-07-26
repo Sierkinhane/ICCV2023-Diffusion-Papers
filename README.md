@@ -3,7 +3,7 @@
 ## Image/Video Synthesis (2D,3D)
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**
 - Paper: https://arxiv.org/pdf/2306.15667.pdf
-- Code: https://github.com/facebookresearch/PoseDiffusion
+- Code: https://github.com/vvictoryuki/FreeDoM
 
 **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [Layout-to-Image]**
 - Paper: https://arxiv.org/abs/2307.10816 
