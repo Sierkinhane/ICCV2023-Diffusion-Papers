@@ -24,6 +24,10 @@
 - Paper: https://arxiv.org/abs/2303.13516
 - Code: https://github.com/nupurkmr9/concept-ablation
 
+**Better Aligning Text-to-Image Models with Human Preference**
+- Paper: https://arxiv.org/abs/2303.14420
+- Code: https://github.com/tgxs002/align_sd
+
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
 - Paper: https://arxiv.org/abs/2304.02051
