@@ -72,6 +72,10 @@
 - Paper: https://arxiv.org/abs/2211.09788
 - Code: https://github.com/ShoufaChen/DiffusionDet
 
+**Generative Prompt Model for Weakly Supervised Object Localization**
+- Paper: https://arxiv.org/abs/2307.09756
+- Code: https://github.com/callsys/GenPromp
+
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.11681
 - Code: https://github.com/weijiawu/DiffuMask
