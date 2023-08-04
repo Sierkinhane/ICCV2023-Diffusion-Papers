@@ -68,7 +68,7 @@
 - Code: https://github.com/Xiuyu-Li/q-diffusion
 
 ## Object Detection / Semantic Segmentation
-**DiffusionDet is the first work of diffusion model for object detection**
+**DiffusionDet: Diffusion Model for Object Detection**
 - Paper: https://arxiv.org/abs/2211.09788
 - Code: https://github.com/ShoufaChen/DiffusionDet
 
