@@ -80,6 +80,10 @@
 - Paper: https://arxiv.org/abs/2303.11681
 - Code: https://github.com/weijiawu/DiffuMask
 
+**DDP: Diffusion Model for Dense Visual Prediction**
+- Paper: https://arxiv.org/abs/2303.17559
+- Code: https://github.com/JiYuanFeng/DDP
+
 ## Medical Image Analysis
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.08440
