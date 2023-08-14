@@ -28,6 +28,10 @@
 - Paper: https://arxiv.org/abs/2303.14420
 - Code: https://github.com/tgxs002/align_sd
 
+**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**
+- Paper: https://arxiv.org/abs/2304.04269
+- Code: https://github.com/IDEA-Research/HumanSD
+
 ## Image Editing
 **Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**
 - Paper: https://arxiv.org/abs/2304.02051
