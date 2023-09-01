@@ -54,6 +54,11 @@
 - Code : https://github.com/Zhaozixiang1228/MMIF-DDFM
 
 ## Human Motion
+**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**
+- Paper: https://arxiv.org/abs/2308.16905
+- Code: https://github.com/Sirui-Xu/InterDiff
+- Web Page: https://sirui-xu.github.io/InterDiff
+  
 **HumanMAC: Masked Motion Completion for Human Motion Prediction**
 - Paper: https://arxiv.org/abs/2302.03665
 - Code: https://github.com/LinghaoChan/HumanMAC
