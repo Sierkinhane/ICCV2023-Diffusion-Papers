@@ -92,3 +92,8 @@
 **Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.08440
 
+## Efficient Training
+**Efficient Diffusion Training via Min-SNR Weighting Strategy**
+- Paper: https://arxiv.org/pdf/2303.09556.pdf
+- Code: https://github.com/TiankaiHang/Min-SNR-Diffusion-Training
+
