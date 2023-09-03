@@ -102,3 +102,10 @@
 - Paper: https://arxiv.org/pdf/2303.09556.pdf
 - Code: https://github.com/TiankaiHang/Min-SNR-Diffusion-Training
 
+## Self-Supervisedl Learning
+**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**
+Paper: https://arxiv.org/abs/2303.09769
+Code: https://github.com/FutureXiang/ddae
+
+
+
